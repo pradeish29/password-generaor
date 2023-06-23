@@ -1,0 +1,61 @@
+body{
+    background: linear-gradient(to bottom right,#048378fd, #9155e0) no-repeat;
+    height: 800px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.ass{
+    height: 400px;
+    width: 600px;
+    background-color: #050505;
+    border-radius: 30px;
+    margin-left: auto;
+    margin-top: 8%;
+    margin-bottom: auto;
+    margin-right: auto;
+    stroke: aqua;
+    border: solid #ff8a03fd;
+}
+h1{
+    margin-top: 40px;
+    font-size: 45px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+form{
+    margin-top: 10%;
+}
+.bar{
+    width: 80%;
+    height: 45px;
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 3%;
+    border-radius: 10px;
+    border: #050505;
+    margin-left: 10%;
+}
+.butt{
+    width: 80%;
+    height: 40px;
+    text-align: center;
+    background: linear-gradient(to top left, #e6619f,#874fc7f5);
+    font-size: 24px;
+    margin-bottom: 3%;
+    margin-left: 10%;
+    border-radius: 10px;
+    border: #050505;
+    color: white;
+}
+.in{
+    text-align: center;
+    width: 100%;
+    color: white;
+    font-size: 20px;
+}
+.inn{
+    text-align: center;
+    border-radius: 5px;
+    border: #050505;
+    font-size: 20px;
+}
