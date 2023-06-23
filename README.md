@@ -1,2 +1,2 @@
-# password-generaor
-Password generaor using hml css and javascrip 
+# password-generator
+Password generaor using html css and javascript
