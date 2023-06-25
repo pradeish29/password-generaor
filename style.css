@@ -1,6 +1,5 @@
 body{
-    background: linear-gradient(to bottom right,#048378fd, #9155e0) no-repeat;
-    height: 800px;
+    background: linear-gradient(to bottom right,#048378fd, #9155e0) fixed no-repeat;
     font-family: 'Ubuntu', sans-serif;
 }
 .ass{
